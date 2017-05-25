@@ -1,4 +1,4 @@
-﻿$(document).ready(function() {
+$(document).ready(function() {
 	$("#btnSearch").click(function() {
 		if ($("#LoadMore").attr("Search") == "0") {
 			$("#UserList").html("");
